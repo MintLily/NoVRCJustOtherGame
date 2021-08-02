@@ -1,15 +1,19 @@
 ﻿using System.Reflection;
 using MelonLoader;
 
-[assembly: AssemblyTitle(NoVRCJustChilloutVR.BuildInfo.Description)]
-[assembly: AssemblyDescription(NoVRCJustChilloutVR.BuildInfo.Description)]
-[assembly: AssemblyCompany(NoVRCJustChilloutVR.BuildInfo.Company)]
-[assembly: AssemblyProduct(NoVRCJustChilloutVR.BuildInfo.Name)]
-[assembly: AssemblyCopyright("Created by " + NoVRCJustChilloutVR.BuildInfo.Author)]
-[assembly: AssemblyTrademark(NoVRCJustChilloutVR.BuildInfo.Company)]
-[assembly: AssemblyVersion(NoVRCJustChilloutVR.BuildInfo.Version)]
-[assembly: AssemblyFileVersion(NoVRCJustChilloutVR.BuildInfo.Version)]
-[assembly: MelonInfo(typeof(NoVRCJustChilloutVR.NoVRCJustChilloutVR), NoVRCJustChilloutVR.BuildInfo.Name, NoVRCJustChilloutVR.BuildInfo.Version, NoVRCJustChilloutVR.BuildInfo.Author, NoVRCJustChilloutVR.BuildInfo.DownloadLink)]
+[assembly: AssemblyTitle(NoVRCJustNeosVR.BuildInfo.Description)]
+[assembly: AssemblyDescription(NoVRCJustNeosVR.BuildInfo.Description)]
+[assembly: AssemblyCompany(NoVRCJustNeosVR.BuildInfo.Company)]
+[assembly: AssemblyProduct(NoVRCJustNeosVR.BuildInfo.Name)]
+[assembly: AssemblyCopyright("Created by " + NoVRCJustNeosVR.BuildInfo.Author)]
+[assembly: AssemblyTrademark(NoVRCJustNeosVR.BuildInfo.Company)]
+[assembly: AssemblyVersion(NoVRCJustNeosVR.BuildInfo.Version)]
+[assembly: AssemblyFileVersion(NoVRCJustNeosVR.BuildInfo.Version)]
+[assembly: MelonInfo(typeof(NoVRCJustNeosVR.NoVRCJustNeosVR),
+NoVRCJustNeosVR.BuildInfo.Name,
+NoVRCJustNeosVR.BuildInfo.Version,
+NoVRCJustNeosVR.BuildInfo.Author,
+NoVRCJustNeosVR.BuildInfo.DownloadLink)]
 
 
 // Create and Setup a MelonGame to mark a Mod as Universal or Compatible with specific Games.

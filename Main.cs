@@ -7,19 +7,19 @@ using System.Text.RegularExpressions;
 using System.Diagnostics;
 using System.Windows.Forms;
 
-namespace NoVRCJustChilloutVR
+namespace NoVRCJustNeosVR
 {
     public static class BuildInfo
     {
-        public const string Name = "NoVRCJustChilloutVR";
-        public const string Description = "VRChat gay, play ChilloutVR instead";
+        public const string Name = "NoVRCJustNeosVR";
+        public const string Description = "VRChat gay, play NeosVR instead";
         public const string Author = "Not So Funny Lily";
         public const string Company = null;
         public const string Version = "2.0.0";
         public const string DownloadLink = null;
     }
 
-    public class NoVRCJustChilloutVR : MelonMod
+    public class NoVRCJustNeosVR : MelonMod
     {
         public override void OnApplicationStart()
         {
@@ -243,9 +243,9 @@ namespace NoVRCJustChilloutVR
         public static string installPath;
         //public Platform platform;
 
-        internal const int SteamAppId = 661130;
-        internal const string AppFileName = "ChilloutVR.exe";
-        private const string AppName = "ChilloutVR";
+        internal const int SteamAppId = 740250;
+        internal const string AppFileName = "Neos.exe";
+        private const string AppName = "NeosVR";
 
         public static string GetInstallLocation()
         {
