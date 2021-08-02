@@ -1,5 +1,5 @@
 # NoVRCJustOtherGame
-Don't Play VRChat, Play NeosVR instead
+Don't Play VRChat, Play ChilloutVR instead
 
 # MelonLoader
 Version: 0.4.2+<br>
