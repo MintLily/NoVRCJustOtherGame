@@ -7,8 +7,8 @@
     <ProjectGuid>{788BC472-59F7-46E6-B760-65C18BA74389}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NoVRCJustChilloutVR</RootNamespace>
-    <AssemblyName>NoVRCJustChilloutVR</AssemblyName>
+    <RootNamespace>NoVRCJustNeosVR</RootNamespace>
+    <AssemblyName>NoVRCJustNeosVR</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <LangVersion>9.0</LangVersion>
     <FileAlignment>512</FileAlignment>
@@ -18,7 +18,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>none</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>$(SolutionDir)Output\NoVRCJustChilloutVR\</OutputPath>
+    <OutputPath>$(SolutionDir)Output\NoVRCJustNeosVR\</OutputPath>
     <DefineConstants>
     </DefineConstants>
     <ErrorReport>prompt</ErrorReport>
